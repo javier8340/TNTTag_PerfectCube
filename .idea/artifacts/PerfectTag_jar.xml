@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PerfectTag:jar">
+    <output-path>$PROJECT_DIR$/..</output-path>
+    <root id="archive" name="PerfectTag.jar">
+      <element id="module-output" name="PerfectTag" />
+    </root>
+  </artifact>
+</component>
