@@ -1,0 +1,7 @@
+name: TNTTagPerfectCube
+version: 1.0.0
+authors:
+  - PerfectGalaxy
+  - ElDub
+description: A funny tnt game
+main: perfectcube.tag.TNTTag
