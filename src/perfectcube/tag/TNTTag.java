@@ -22,6 +22,11 @@ public class TNTTag extends JavaPlugin {
 
     public void onEnable(){
         t = this;
+
+        registerCommands();
+        registerConfig();
+        registerData();
+        registerEvents();
     }
 
     public void registerEvents(){
