@@ -5,3 +5,6 @@ authors:
   - ElDub
 description: A funny tnt game
 main: perfectcube.tag.TNTTag
+commands:
+  tnttag:
+    description: Principal command
